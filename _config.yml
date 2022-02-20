@@ -1,0 +1,34 @@
+
+title: Stockbridge Renovations
+tagline: Fine Full-Service Renovations
+
+description: |
+  Stockbridge Renovations specialise in residential renovations in Edinburgh and The Lothians.
+
+url: https://www.stockbridgerenovations.com
+
+logo: https://www.stockbridgerenovations.com/assets/favicon.png
+
+social:
+  name: Stockbridge Decorators
+  links:
+    - https://www.instagram.com/stockbridgerenovations/
+
+locale: en_UK
+
+theme: minima
+
+show_excerpts: true
+
+sass:
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
